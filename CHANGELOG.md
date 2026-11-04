@@ -1,3 +1,5 @@
+# v1.0.1 - 20261104
+* [CDPM-06] Remove addition [PR#8](https://github.com/DucHuy9725/CDPM_2315/pull/8)
 # v1.0.0 - 20261104
 * [CDPM-01] Implement addition [PR#1](https://github.com/DucHuy9725/CDPM_2315/pull/1)
 * [CDPM-03] Implement multiplication [PR#2](https://github.com/DucHuy9725/CDPM_2315/pull/2)
